@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0 auto;
+  width: 1140px;
+}
+
+.c {
+  margin-top: 178px;
+  margin-bottom: 140px;
+  margin-left: 386px;
+  max-width: 753px;
+}
+
+._404 {
+  font-family: "Montserrat";
+  font-size: 64px;
+  line-height: 78px;
+  margin-bottom: 21px;
+}
+
+.btn {
+  font-family: "Circe";
+  font-size: 40px;
+  line-height: 59px;
+  text-decoration: none;
+  color: black;
+}
